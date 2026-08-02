@@ -15,7 +15,8 @@
       "default",
       {
         "ignore": [
-          "user-select"
+          "user-select",
+          "min-height: auto"
         ]
       }
     ],
@@ -24,6 +25,7 @@
       {
         "label": "off"
       }
-    ]
+    ],
+    "no-inline-styles": "off"
   }
 }
