@@ -2,6 +2,9 @@
 
 A two-page wallet application built with HTML, CSS, and Vanilla JavaScript. The UI design and app logic are inspired by the well-known Bankist project (from Jonas Schmedtmann's JavaScript course), but reimagined with a completely custom, blue-themed UI I designed myself.
 
+
+![Uploading design-WEBSITE.jpg…]()
+
 <img width="4419" height="2486" alt="design - page 1" src="https://github.com/user-attachments/assets/775967a2-2a55-414b-a63b-21412f7d8987" />
 <img width="4419" height="2486" alt="design - page 2" src="https://github.com/user-attachments/assets/c5aad4cf-2d8d-45d6-89be-69477146bb6b" />
 
